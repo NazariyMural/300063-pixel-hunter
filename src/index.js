@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import App from './App';
 import getElementFromTemplate from './main';
+import EventF from './ev'
 
 class Article {
     constructor(title, content){
